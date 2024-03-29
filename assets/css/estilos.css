@@ -10,9 +10,22 @@ body {
   background-size: cover;
   background-position: left;
 }
+.btn-outline-info{
+  border-color: teal;
+}
+.btn-info{
+  border-color: teal;
+  background-color: teal;
+}
 
 /* Mis trabajos */
 
+#Mis-trabajos{
+  background-color: teal;
+}
+.verMas{
+  color: teal;
+}
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
